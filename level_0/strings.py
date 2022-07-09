@@ -41,17 +41,21 @@ but it was transformed to a string for it to be printed here'''
 print(string_formated)
 
 # We can also use the escape sequence for printing single quotes, double quotes, etecetera
+
 print("\n")
 today = datetime.now()
 print("today is the year of " + today.strftime("%Y") + '''
 Of the ''' + today.strftime("%B") + ' month''\nAnd is a beautiful ' + today.strftime("%A"))
 
 # Let's format the last string, so it can be more developer friendly
+
 name = 'Marcos'
 print(f'\nHi {name}!\nToday is {today.strftime("%A")}.\nWell, have a nice day!')
 
 # Strings are indexed like arrays, so:
+
 string_is_array = 'ABCDEFGHIJ'
+
 # string  012345678
 # Also, that array can be manipulated by
 # string_is_array[start:end:stepover]
@@ -63,6 +67,7 @@ print('\n'+string_is_array[0:5:2])  # = ACE
 # In python, the negative of a index = the end,
 # so, -1 = j
 # Lets show and example by doing reversing an order
+
 string_is_array = '012345678'
 print('\n' + string_is_array[::-1])
 
