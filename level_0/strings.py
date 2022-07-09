@@ -64,3 +64,6 @@ print('\n'+string_is_array[0:5:2])  # = ACE
 # Lets show and example by doing reversing an order
 string_is_array = '012345678'
 print('\n' + string_is_array[::-1])
+
+# We can also get the length of a string using the 'len' function
+print('\nThe length of the last array is:' + len(string_is_array))
