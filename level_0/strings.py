@@ -3,6 +3,7 @@
 # there's a declaration for a long string, we use 3 single quotes in a row: '''
 
 from datetime import datetime
+
 long_string = '''
 Hey,
 you see... I can be a string with a
@@ -66,4 +67,12 @@ string_is_array = '012345678'
 print('\n' + string_is_array[::-1])
 
 # We can also get the length of a string using the 'len' function
-print('\nThe length of the last array is:' + len(string_is_array))
+print('\nThe length of the last array is:')
+print(len(string_is_array))
+
+# Note that the len count like humans, so the lenght is 9, but in computer
+# Language, it's 0-8
+
+# Another cool thing to do is:
+
+print(string_is_array[0:len(string_is_array)])
