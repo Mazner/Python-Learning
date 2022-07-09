@@ -1,0 +1,7 @@
+Python is a interpreted programing language, which means an interpreter
+"reads" the code line by line, and operates its instructions. The int-
+erpreter transforms the laguage to a code that can then be read by the
+computer (binary).Python is a interpreted programing language, which means 
+an interpreter "reads" the code line by line, and operates its instructions. 
+The interpreter transforms the laguage to a code that can then be read by 
+the computer (binary).
