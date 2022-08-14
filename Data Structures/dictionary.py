@@ -33,10 +33,3 @@ print(matrixed_dict[0]['b'])
 
 #   Dictionaries are unordered, but they can be useful in some things
 #   for instance: a game character
-
-character = {
-    'weapon' : ['Bow of Jewel','Dagger of parry'],
-    'Armor' : ['Light boots', 'Light headhgear', 'Light chestplate'],
-    'Pants' : False
-}
-
