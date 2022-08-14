@@ -16,7 +16,7 @@ shopping_cart = [
 ]
 print(shopping_cart) 
 
-shopping_cart[0] = 'Crackers'   #We can reassing values
+shopping_cart[0] = 'Crackers'   #We can reassign values
 
 print(shopping_cart)
 
