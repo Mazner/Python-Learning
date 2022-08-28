@@ -7,3 +7,5 @@
 ### Data Structures in python;
 
 ### The Projects folders are projects that i've built using python divided by their sizes
+
+### Level_0 is just the most basic stuff
