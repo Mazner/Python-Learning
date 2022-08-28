@@ -6,5 +6,4 @@
 
 ### Data Structures in python;
 
-### The Projects folders are projects that i've built using python
-divided by their sizes
+### The Projects folders are projects that i've built using python divided by their sizes
