@@ -1,8 +1,8 @@
-#Here i'm experiencing building a calculator with everything i've learned
-#so far (variables, conditionals, loops)
+# Here i'm experiencing building a calculator with everything i've learned
+# so far (variables, conditionals, loops)
 
-#My background in C programing, made me go into search for creating functions, so I could
-#Make the code a little bit more clear.
+# My background in C programing, made me go into search for creating functions, so I could
+# Make the code a little bit more clear.
 
 def sum(sum_list):
     list_size = len(sum_list)
